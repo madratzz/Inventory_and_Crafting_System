@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7c3814bfbe057a5478d3d7e63b0a0a03, type: 3}
+  m_Name: Demo_InventoryIcons
+  m_EditorClassIdentifier: 
+  itemList:
+  - ID: 0
+    Icon: {fileID: 21300000, guid: 6fc27c9d7fc2d9448af6851bf935e6d2, type: 3}
+  - ID: 1
+    Icon: {fileID: 21300000, guid: 70a77abda853dd941a0c8debf1de9b04, type: 3}
+  - ID: 2
+    Icon: {fileID: 21300000, guid: 2f1eaeeaad36ee5469eff7ff158f37ba, type: 3}
+  - ID: 3
+    Icon: {fileID: 21300000, guid: 5d9ba4e7d0964044ea54abe409d81dfd, type: 3}
+  - ID: 4
+    Icon: {fileID: 21300000, guid: da09804303305f542a686824630e7269, type: 3}
+  - ID: 5
+    Icon: {fileID: 21300000, guid: fe025e83f69d0b54f8a4fe3c7c128fd7, type: 3}
